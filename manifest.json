@@ -11,7 +11,7 @@
    "icons": {
       "128": "icon_128.png"
    },
-   "key": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQC0QukLKXLBBu3zpWtPQLpu44U+qrDWsoX3Oor7i1ZWwConnJdo2tE2t+uiE/iDU4yKeK959MWfXk7UjEOe4h205rvSh627LR/EBdO6OU8+l+WKXhideXe+wslwOOUkPZUL3DCMSrMb2a1d1U1uQgl7nYPNWTQqqndjdeYLmCrb0QIDAQAB",
+   "key": "",
    "manifest_version": 2,
    "name": "Gmail email tæller",
    "permissions": [ "alarms", "tabs", "webNavigation", "*://*.google.com/" ],
